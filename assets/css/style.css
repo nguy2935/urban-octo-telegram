@@ -102,24 +102,25 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-}
-
-.benefit-title {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-title h3 {
+.benefits div {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-title img {
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
 
 footer {
     padding: 30px;
